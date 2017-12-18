@@ -25,3 +25,8 @@ Options:
                      provided as tab-separated <k> columns, followed by a
                      single moment value (defaults to './meanW.tsv')
 ```
+
+To see the computations on a simple example, download and unzip SimpleExample.zip and having bin.tsv, types.tsv, meanW.tsv and rho in current directory, run the following:
+```
+user@localhost:~/SimpleExample$ java -jar /path/to/Idhim-1.0-full.jar -v
+```
