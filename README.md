@@ -1,5 +1,8 @@
 # Idhim
 
+Method description in:
+Maćkowiak-Pawłowska, M. & Przybyła, P. Eur. Phys. J. C (2018) 78: 391. https://doi.org/10.1140/epjc/s10052-018-5879-9
+
 Download from:
 https://github.com/piotrmp/idhim/raw/master/Idhim/target/Idhim-1.0-full.jar
 
